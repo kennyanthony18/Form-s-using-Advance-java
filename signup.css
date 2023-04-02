@@ -1,0 +1,54 @@
+@charset "ISO-8859-1";
+.bod
+{
+	background-color:#00555a;
+}
+
+.bodd1
+{
+	background-color:#8f8f8f;
+}
+
+.body2
+{
+	background-color:#6493ed;
+}
+
+.tip
+{
+	font-size: larger;
+}
+
+.total
+{
+	 height:680px;
+	 width:420px;
+	 margin-top: 20px;
+	 margin-left: 500px;
+}
+.ken
+{
+background-color:#19969e;	
+}
+.ken1
+{
+background-color:#434f61;	
+}
+.kenhead
+{
+	color:white;
+	margin-left:140px;
+}
+.mov
+{
+margin-left:200px;
+}
+input
+{
+	font-size: medium;
+}
+.butt
+{
+	margin-left:140px;
+	font-size: larger;
+}
